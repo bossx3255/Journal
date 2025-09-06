@@ -193,7 +193,7 @@ end
     
 if not(hasLibrary("TGUI")) then
     print("Downloading and Installing TGUI")
-    getLibrary("https://github.com/texus/TUI/releases/download/v1.10.0/TGUI-1.10.0-vc17-64bit-for-SFML-3.0.0.zip","TGUI-1.10")
+    getLibrary("https://github.com/texus/TGUI/releases/download/v1.10.0/TGUI-1.10.0-vc17-64bit-for-SFML-3.0.0.zip","TGUI-1.10")
     print("TGUI downloaded")
     hasTempFolder = true
 else
