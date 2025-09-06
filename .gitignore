@@ -1,0 +1,7 @@
+bin/
+.vs/
+.git/
+Journal.sln
+MyJournal.vcxproj
+MyJournal.vcxproj.filters
+MyJournal.vcxproj.user
